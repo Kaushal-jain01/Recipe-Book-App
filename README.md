@@ -64,8 +64,8 @@ my_project/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/django-recipe-app.git
-cd django-recipe-app
+git clone https://github.com/Kaushal-jain01/Recipe-Book-App.git
+cd Recipe-Book-App
 ````
 
 ### 2️⃣ Create & activate virtual environment
@@ -143,19 +143,3 @@ Contributions are welcome!
 Feel free to fork the repository and submit a pull request.
 
 ---
-
-## 📄 License
-
-This project is for educational purposes.
-
-```
-
----
-
-If you want, I can also:
-- Add **screenshots section**
-- Write a **resume-ready project description**
-- Optimize this for **deployment (Render / Railway / AWS)**
-
-Just tell me 👍
-```
